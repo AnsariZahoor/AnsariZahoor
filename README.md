@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🚀 &nbsp; Python Developer | 📊 &nbsp; Data Engineer | 👨‍💻 AWS Developer
-🌍 &nbsp; Based in Mumbai, India
-💼 &nbsp; I’m currently working at Roni Analytics
-🛠️ &nbsp; What I Can Do:
+- 🚀 &nbsp; Python Developer | 📊 &nbsp; Data Engineer | 👨‍💻 AWS Developer
+- 🌍 &nbsp; Based in Mumbai, India
+- 💼 &nbsp; I’m currently working at Roni Analytics
+- 🛠️ &nbsp; What I Can Do:
   - **Automation:** Streamline repetitive tasks and processes for increased efficiency.
   - **Web Scraping:** Gather valuable data from websites for analysis and insights.
   - **AWS Cloud Development and Deployment:** Harness the power of Amazon Web Services for scalable applications.
@@ -51,7 +51,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariZahoor&theme=buefy&layout=compact" />
 </a>
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="048816ff-a8ec-4fba-a160-03eb9fc2b774" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<br/>
+![AWSCCP]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://discord.com/channels/1060551877391040542/1060554219301642361/1156607017536983243))
 
 <br/>
 
