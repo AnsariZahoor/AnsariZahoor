@@ -24,7 +24,7 @@
 - 🧩 &nbsp; AWS Services
   ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333333?style=flat&logo=EC2)
   ![AWS ECS](https://img.shields.io/badge/-AWS%20ECS-333333?style=flat&logo=ECS)
-  ![AWS Beanstalk](https://img.shields.io/badge/-AWS%20Beanstalk333333?style=flat&logo=Beanstalk)
+  ![AWS Beanstalk](https://img.shields.io/badge/-AWS%20Beanstalk-333333?style=flat&logo=Beanstalk)
   ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=Lambda)
   And more
 - 🛢 &nbsp; Database
