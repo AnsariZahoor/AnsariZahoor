@@ -53,7 +53,8 @@
 -->
 
 <br/>
-![Logo](https://cdn.discordapp.com/attachments/1060554219301642361/1156607017058840707/aws-certified-cloud-practitioner.png?ex=651595b9&is=65144439&hm=433fcac8521c94ca1156445a981c88e9759fb50ad41b91bfb9d5146a9919f441&)
+
+![Logo](https://cdn.discordapp.com/attachments/1060554219301642361/1156608148065497210/aws-certified-cloud-practitioner.png?ex=651596c7&is=65144547&hm=ad85ea320d92a24a0a46fa267f3d45cdd703721b7724fdf25f331a6243d13a87&)
 
 <br/>
 
