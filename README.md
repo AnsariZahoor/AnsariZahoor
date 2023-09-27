@@ -53,7 +53,7 @@
 -->
 
 <br/>
-![AWSCCP]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://discord.com/channels/1060551877391040542/1060554219301642361/1156607017536983243))
+![Logo]([https://cdn.discordapp.com/attachments/1060554219301642361/1156607017058840707/aws-certified-cloud-practitioner.png?ex=651595b9&is=65144439&hm=433fcac8521c94ca1156445a981c88e9759fb50ad41b91bfb9d5146a9919f441&]))
 
 <br/>
 
