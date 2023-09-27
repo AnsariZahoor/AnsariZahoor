@@ -1,12 +1,17 @@
-<h2> Hey there! I'm Zahoor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi! I'm Zahoor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+🚀 &nbsp; Python Developer | 📊 &nbsp; Data Engineer | 👨‍💻 AWS Developer
+🌍 &nbsp; Based in Mumbai, India
+💼 &nbsp; I’m currently working at Roni Analytics
+🛠️ &nbsp; What I Can Do:
+  - **Automation:** Streamline repetitive tasks and processes for increased efficiency.
+  - **Web Scraping:** Gather valuable data from websites for analysis and insights.
+  - **AWS Cloud Development and Deployment:** Harness the power of Amazon Web Services for scalable applications.
+  - **Data Engineering:** Transform and manage data to drive informed decision-making.
+  - **ETL Job Scripting & Deployment:** Design, code, and deploy Extract, Transform, Load (ETL) processes.
+  - **Web Development:** Craft engaging and user-friendly web experiences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,10 +45,13 @@
 
 <br/>
 
+<!--
 <a href="https://github.com/AnsariZahoor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnsariZahoor&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariZahoor&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariZahoor&theme=buefy&layout=compact" />
 </a>
+-->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="048816ff-a8ec-4fba-a160-03eb9fc2b774" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <br/>
 
