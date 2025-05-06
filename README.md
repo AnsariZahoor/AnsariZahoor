@@ -14,13 +14,6 @@ Software engineer with 3 years of experience specializing in data engineering an
 
 Building robust data pipelines and cloud infrastructure for PandaTerminal's crypto trading platform to ensure scalability, reliability and real-time data processing.
 
-
-<br/>
-
-<br/>
-
-![Logo]([https://cdn.discordapp.com/attachments/1060554219301642361/1156608148065497210/aws-certified-cloud-practitioner.png?ex=651596c7&is=65144547&hm=ad85ea320d92a24a0a46fa267f3d45cdd703721b7724fdf25f331a6243d13a87&](https://www.credly.com/badges/048816ff-a8ec-4fba-a160-03eb9fc2b774/public_url))
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
