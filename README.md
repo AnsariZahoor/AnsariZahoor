@@ -1,23 +1,48 @@
 <h2> Hi! I'm Zahoor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-Software engineer with 3 years of experience specializing in data engineering and cloud architecture. Currently focused on developing reliable infrastructure for crypto trading platforms.
 
-## 🛠️ Technical Skills
+Cloud & DevOps Engineer | AWS | Data Engineering | Fintech Infrastructure
 
-- **Cloud & DevOps:** AWS Solutions Architecture, CI/CD, Infrastructure as Code
-- **Data Engineering:** ETL Pipeline Development, Data Warehousing, Data Processing
-- **Languages & Tools:** Python, SQL, Terraform, Docker, Kubernetes
-- **Development:** API Design, Microservices, Automation
+I design and build scalable, automated cloud systems with a strong focus on reliability, performance, and cost optimization.
 
-## 🔍 Currently Working On
+With 4+ years of experience, I’ve worked across cloud infrastructure, data platforms, event-driven systems, and AI-driven backend architectures.
 
-Building robust data pipelines and cloud infrastructure for PandaTerminal's crypto trading platform to ensure scalability, reliability and real-time data processing.
+---
 
-<br/>
+## 🚀 What I Work On
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+- Cloud-native systems on AWS
+- Infrastructure as Code (Terraform, Ansible)
+- Containerized workloads (Docker, ECS, Kubernetes)
+- Event-driven architectures (SQS, SNS, EventBridge, Lambda)
+- Real-time data ingestion & ETL pipelines (Kafka, Kinesis, Pinot, Airflow)
+- CI/CD automation (Bitbucket, Guthub, Jenkins)
+- Observability & reliability engineering (Grafana, CloudWatch)
+- AI backend infrastructure (MCP servers, authentication, scalable APIs)
 
+---
+
+## 🏗 Architecture Mindset
+
+I focus on:
+- Designing systems for scale
+- Automating operational workflows
+- Reducing cloud cost through better architecture
+- Improving system reliability and fault tolerance
+- Building production-ready backend systems
+
+---
+
+## 🔧 Tech Stack
+
+**Cloud:** AWS (EC2, ECS, EKS, Lambda, S3, RDS, SQS, SNS, EventBridge, CloudWatch, IAM, VPC)  
+**DevOps:** Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code  
+**Backend:** Python, FastAPI, FlaskAPI, Django  
+**Data:** ETL pipelines, real-time processing, PostgreSQL, MongoDB
+**Caching & Messaging:** Redis, SQS  
+**Architecture:** Event-driven systems, microservices patterns  
+
+</br>
 <p>
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/ansarizahoor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zahoor%20Ansari-blue?style=flat-square&logo=linkedin"></a>
